@@ -21,7 +21,9 @@
 				<?php endif; ?>
 				
 				<div id="footer-text">
-					<?php do_action('dukan_footer_text'); ?>
+					<?php //do_action('dukan_footer_text');
+                     echo "Powered by Knovva Acedemy";
+                    ?>
 				</div>
 				
 			</footer>
