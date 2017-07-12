@@ -3,3 +3,10 @@
 #footer-text {
     text-align: center;
 }
+
+#footer-bg {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
