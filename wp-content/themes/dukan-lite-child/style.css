@@ -2,7 +2,7 @@
 Theme Name: Dukan Lite Child Theme
 Template: dukan-lite
 */
-
+@import "../dukan-lite/style.css";
 #footer-text {
     text-align: center;
 }
