@@ -13,3 +13,10 @@ Template: dukan-lite
     width: 100%;
     text-align: center;
 }
+
+#footer #footer-text {
+    float: none;
+    padding: 1.05em 0;
+    font-size: 0.9em;
+    text-align: center;
+}
