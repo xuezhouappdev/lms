@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dukan Lite\n"
+"Report-Msgid-Bugs-To: http://odude.com/\n"
+"POT-Creation-Date: 2017-06-26 15:06+0545\n"
+"PO-Revision-Date: 2017-06-26 15:07+0545\n"
+"Last-Translator: Marco Andrei Kichalowsky <contact@marcoandrei.com>\n"
+"Language-Team: Marco Andrei Kichalowsky <contact@marcoandrei.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Loco-Target-Locale: pt_BR\n"
+
+#: 404.php:9
+#, fuzzy
+msgid "404: Page not found"
+msgstr "Erro 404: página não encontrada"
+
+#: 404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try a search or one "
+"of the links below?"
+msgstr ""
+
+#: archive.php:26 home.php:29 search.php:27
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: archive.php:27 home.php:30 search.php:28
+msgid "Next page"
+msgstr "Próxima página"
+
+#: archive.php:28 home.php:31 search.php:29
+msgid "Page"
+msgstr "Página"
+
+#: comments.php:14
+msgid "Enter password to view comments."
+msgstr "Entre com a senha para ver os comentários."
+
+#: comments.php:24 inc/template-tags.php:113
+msgid "One comment"
+msgstr "1 comentário"
+
+#: comments.php:24 inc/template-tags.php:113
+#, php-format
+msgid "% comments"
+msgstr "% comentários"
+
+#: content-search.php:10
+msgid "Read more."
+msgstr ""
+
+#: content.php:27
+msgid "Read more"
+msgstr "Leia mais"
+
+#: functions.php:39
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:132
+msgid "Main Navigation"
+msgstr "Navegação principal"
+
+#: functions.php:133
+msgid "Top Navigation"
+msgstr "Navegação no topo"
+
+#: functions.php:134
+msgid "Social Icons"
+msgstr "Ícones de redes sociais"
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:167
+#, fuzzy
+msgid ""
+"Appears on posts and pages except Magazine Homepage and Fullwidth template."
+msgstr ""
+"Aparece em posts e páginas, exceto na página inicial e no modelo de largura "
+"total"
+
+#: functions.php:175
+msgid "Top Header"
+msgstr ""
+
+#: functions.php:177
+msgid "Appears on top right of the page. Best for Adsense advertisement."
+msgstr ""
+
+#: functions.php:258
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:259 functions.php:278
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions.php:289
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário aguarda moderação."
+
+#: inc/customizer/customizer.php:40 inc/theme-info.php:75
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+#: inc/customizer/customizer.php:52
+msgid "Color & Backgrounds"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "Display Tagline below site title."
+msgstr "Exibe a Descrição abaixo do título do blog."
+
+#: inc/customizer/customizer.php:81
+msgid "Header Color"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:14
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:29
+msgid "Theme Layout"
+msgstr "Leiaute do Tema"
+
+#: inc/customizer/sections/customizer-general.php:35
+msgid "Left Sidebar"
+msgstr "Barra Lateral Esquerda"
+
+#: inc/customizer/sections/customizer-general.php:36
+msgid "Right Sidebar"
+msgstr "Barra Lateral Direita"
+
+#: inc/customizer/sections/customizer-general.php:51
+#, fuzzy
+msgid "Footer Icons"
+msgstr "Conteúdo em destaque"
+
+#: inc/customizer/sections/customizer-general.php:68
+#, fuzzy
+msgid "Display Social Icons in footer"
+msgstr "Exibe ícones de redes sociais no cabeçalho"
+
+#: inc/customizer/sections/customizer-general.php:86
+msgid "Default Fonts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:103
+msgid "Deactivate Google Fonts in case your language is not compatible."
+msgstr ""
+
+#: inc/customizer/sections/customizer-header.php:14
+#, fuzzy
+msgid "Header Area"
+msgstr "Conteúdo do Cabeçalho"
+
+#: inc/customizer/sections/customizer-header.php:30
+msgid "Header Content"
+msgstr "Conteúdo do Cabeçalho"
+
+#: inc/customizer/sections/customizer-header.php:47
+msgid "Display search field on header area"
+msgstr "Exibe um campo de busca no cabeçalho"
+
+#: inc/customizer/sections/customizer-post.php:14
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:30
+#, fuzzy
+msgid "Post Images"
+msgstr "Páginas"
+
+#: inc/customizer/sections/customizer-post.php:45
+msgid "Display featured images on single posts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:63
+msgid "Text after Excerpts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:78
+msgid "Display [...] after excerpts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:96
+#, fuzzy
+msgid "Post Meta"
+msgstr "Páginas"
+
+#: inc/customizer/sections/customizer-post.php:111
+msgid "Display post date"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:126
+msgid "Display post author"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:141
+msgid "Display post categories"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:156
+msgid "Display post tags"
+msgstr ""
+
+#: inc/customizer/sections/customizer-upgrade.php:14 inc/theme-info.php:86
+#, fuzzy
+msgid "Pro Version"
+msgstr "Versão PRO"
+
+#: inc/customizer/sections/customizer-upgrade.php:30
+msgid "You need more features?"
+msgstr ""
+
+#: inc/customizer/sections/customizer-upgrade.php:46
+#, fuzzy
+msgid ""
+"Purchase the Pro Version to get additional features and advanced "
+"customization options."
+msgstr ""
+"Precisa de mais recursos? Conheça a versão PRO, que vem com recursos "
+"adicionais e opções avançadas de personalização."
+
+#: inc/customizer/sections/customizer-upgrade.php:62 inc/theme-info.php:93
+#, fuzzy, php-format
+msgid "Learn more about %s Pro"
+msgstr "Saiba mais sobre a versão PRO do dukan"
+
+#: inc/featured-content.php:348
+msgid "Featured Content"
+msgstr "Conteúdo em destaque"
+
+#: inc/featured-content.php:349
+#, php-format
+msgid ""
+"Easily feature all posts with the <a href=\"%1$s\">\"featured\" tag</a> or a "
+"tag of your choice. Your theme supports up to %2$s posts in its featured "
+"content area."
+msgstr ""
+
+#: inc/featured-content.php:376
+#, fuzzy
+msgid "Tag name"
+msgstr "Nome do tag"
+
+#: inc/featured-content.php:381
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr ""
+
+#: inc/featured-content.php:387
+msgid "Display featured posts in latest blog post listing."
+msgstr ""
+
+#: inc/template-tags.php:92
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visualizar todos posts por %s"
+
+#: inc/template-tags.php:113
+msgid "Leave a comment"
+msgstr "Deixar um comentário"
+
+#: inc/template-tags.php:171 inc/theme-info.php:46 inc/theme-info.php:68
+#: inc/theme-info.php:92
+msgid "http://odude.com/themes/dukan/"
+msgstr ""
+
+#: inc/template-tags.php:176
+#, php-format
+msgid "Powered by %1$s"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgid "Dukan Theme"
+msgstr ""
+
+#: inc/template-tags.php:208
+#, fuzzy
+msgid ""
+"Please go to Appearance &#8594; Menus and create a new custom menu with "
+"custom links to all your social networks. Then click on \"Manage Locations\" "
+"tab and assign your created menu to the \"Social Icons\" location."
+msgstr ""
+"Por favor, acesse Aparência -> Menus e crie um menu com links personalizados "
+"para todos os seus perfis sociais. Então clique na aba Gerenciar Posições e "
+"atribua o menu recém-criado à posição no tem chamada \"Ícones de redes "
+"sociais\"."
+
+#: inc/theme-info.php:18 inc/theme-info.php:39
+#, fuzzy, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr "Bem-vindo ao %1s versão %2s"
+
+#: inc/theme-info.php:19
+msgid "Theme Info"
+msgstr "Informações do Tema"
+
+#: inc/theme-info.php:45
+msgid "Important Links:"
+msgstr "Links Importantes:"
+
+#: inc/theme-info.php:46
+msgid "Visit Us"
+msgstr ""
+
+#: inc/theme-info.php:59
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Primeiros passos com %s"
+
+#: inc/theme-info.php:62
+msgid "Theme Documentation"
+msgstr "Documentação do Tema"
+
+#: inc/theme-info.php:65
+#, fuzzy
+msgid ""
+"You need help to setup and configure this theme? We got you covered with an "
+"extensive theme documentation on our website."
+msgstr ""
+"Precisa de alguma ajuda para instalar ou configurar este tema? Oferecemos a "
+"você uma vasta documentação sobre o tema em nosso <i>website</i>."
+
+#: inc/theme-info.php:69
+#, fuzzy, php-format
+msgid "View %s Documentation"
+msgstr "Documentação do Tema"
+
+#: inc/theme-info.php:78
+#, fuzzy, php-format
+msgid ""
+"%s makes use of the Customizer for all theme settings. Click on \"Customize "
+"Theme\" to open the Customizer now."
+msgstr ""
+"dukan suporta a incrível ferramenta de personalização de temas do WordPress "
+"para todas as suas configurações. Clique em \"Personalizar Tema\" para abrir "
+"a ferramenta agora. "
+
+#: inc/theme-info.php:81
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/theme-info.php:89
+#, fuzzy
+msgid ""
+"You need more features? Purchase the Pro Version to get additional features "
+"and advanced customization options."
+msgstr ""
+"Precisa de mais recursos? Conheça a versão PRO, que vem com recursos "
+"adicionais e opções avançadas de personalização."
+
+#: inc/theme-info.php:114
+#, fuzzy, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+"dukan é orgulhosamente oferecido a você por %1s. Se você gosta deste tema, "
+"%s! :)"
+
+#: inc/theme-info.php:116
+msgid "http://odude.com/"
+msgstr ""
+
+#: inc/theme-info.php:116
+msgid "ODude"
+msgstr ""
+
+#: inc/theme-info.php:117
+msgid "http://wordpress.org/support/view/theme-reviews/dukan-lite?filter=5"
+msgstr ""
+
+#: inc/theme-info.php:117
+msgid "Dukan Lite Review"
+msgstr ""
+
+#: inc/theme-info.php:117
+msgid "rate it"
+msgstr "faça uma avaliação 5 estrelas"
+
+#: search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por %s"
+
+#: search.php:36
+msgid "No matches"
+msgstr "Nenhum resultado"
+
+#: search.php:40
+#, fuzzy
+msgid ""
+"Please try again, or use the navigation menus to find what you search for."
+msgstr ""
+"Sem correspondências. Por favor, tente novamente ou use os menus de "
+"navegação para encontrar o que está procurando."
+
+#: searchform.php:4
+#, fuzzy
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:26
+msgid "Next post:"
+msgstr ""
+
+#: single.php:28
+msgid "Previous post:"
+msgstr ""
+
+#~ msgid "Powered by %1$s and %2$s."
+#~ msgstr "Com as tecnologias %1$s e %2$s."
+
+#, fuzzy
+#~ msgid "Theme Page"
+#~ msgstr "Página de Informações do Tema"
+
+#~ msgid "Changelog"
+#~ msgstr "Registro de Atualizações"
+
+#~ msgid "Theme Demo"
+#~ msgstr "Demonstração do Tema"
+
+#~ msgid "Rate this theme"
+#~ msgstr "Avalie este tema"
+
+#~ msgid "Display Social Icons on header area"
+#~ msgstr "Exibe ícones de redes sociais no cabeçalho"
+
+#~ msgid ""
+#~ "The page you trying to reach does not exist, or has been moved. Please "
+#~ "use the menus or the search box to find what you are looking for"
+#~ msgstr ""
+#~ "A página que você está tentando acessar não existe ou foi movida para "
+#~ "outro lugar. Por favor, use os menus ou a caixa de busca para encontrar o "
+#~ "que está procurando."
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Posts recentes"
+
+#~ msgid "Pages"
+#~ msgstr "Páginas"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Arquivos para o mês %s"
+
+#~ msgid "F Y"
+#~ msgstr "F de Y"
+
+#~ msgid "Archives"
+#~ msgstr "Arquivos"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "Arquivos para o autor %s"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Arquivos para a categoria %s"
+
+#~ msgid "Page %s"
+#~ msgstr "Página %s"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Próximo"
+
+#~ msgid "Return to Gallery"
+#~ msgstr "Retornar à Galeria"
+
+#~ msgid "Return to"
+#~ msgstr "Retornar para"
+
+#~ msgid "Widget Area"
+#~ msgstr "Área de widgets"
+
+#~ msgid ""
+#~ "There are no active widgets to be displayed. Please go to Appearance -> "
+#~ "Widgets to setup your sidebar."
+#~ msgstr ""
+#~ "Não há widget ativos a serem exibidos. Por favor, acesse Aparência -> "
+#~ "Widgets para configurar sua barra lateral."
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Arquivos para os tags %s"
+
+#~ msgid ""
+#~ "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match "
+#~ "the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+#~ msgstr ""
+#~ "Use uma <a \n"
+#~ "href=\"%1$s\">tag</a> para destacar seus posts. Se nenhum post "
+#~ "corresponder a tag escolhida,  serão exibidos os <a href=\"%2$s\">posts "
+#~ "fixos</a>."
+
+#~ msgid "featured"
+#~ msgstr "destaque"
+
+#~ msgid "Don&rsquo;t display tag on front end."
+#~ msgstr "Não exibir o tag nas páginas."
+
+#~ msgid "Welcome to dukan Lite"
+#~ msgstr "Bem-vindo ao dukan Lite"
+
+#~ msgid "Visit dukan Documentation"
+#~ msgstr "Visitar a documentação do tema dukan"
+
+#~ msgid "Learn more about the PRO Version of dukan"
+#~ msgstr "Saiba mais sobre a versão PRO do dukan"
+
+#~ msgid "dukan-lite"
+#~ msgstr "dukan Lite"

@@ -1,0 +1,17 @@
+/*
+ * Theme Customizer CSS 
+ * Theme Name: Dukan Lite 
+ * License: GNU General Public License v2 or later
+ */
+
+#customize-control-dukan_control_header_content,
+#customize-control-dukan_control_footer_content,
+#customize-control-dukan_control_postmeta_headline,
+#customize-control-dukan_control_excerpt_text_headline{
+	margin: 12px 0 0;
+}
+
+#customize-control-dukan_control_default_fonts,
+#customize-control-dukan_control_post_images {
+	margin-bottom: 0;
+}

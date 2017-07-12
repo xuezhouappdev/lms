@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="bluehost">
+    <serverData>
+      <paths name="bluehost">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/cn/lms" local="$PROJECT_DIR$" web="lms" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
