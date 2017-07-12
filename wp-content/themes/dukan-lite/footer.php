@@ -22,7 +22,7 @@
 				
 				<div id="footer-text">
 					<?php //do_action('dukan_footer_text');
-                     echo "Powered by Knovva Acedemy";
+                     echo "Powered by Knovva Academy";
                     ?>
 				</div>
 				
