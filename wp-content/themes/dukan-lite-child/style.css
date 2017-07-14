@@ -20,3 +20,17 @@ Template: dukan-lite
     font-size: 0.9em;
     text-align: center;
 }
+
+
+html {
+    font-size: 100.01%;
+}
+body {
+    font-family: 'Carme', Tahoma, Verdana, Arial;
+    font-size: 0.95em;
+    border: 0;
+    color: #111;
+    background-color: #f3f3f3;
+    position: relative;
+}
+
